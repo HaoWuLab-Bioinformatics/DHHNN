@@ -1,8 +1,8 @@
-# DHGNN
+# DHHNN
 DHHNN: A Dynamic Hypergraph Hyperbolic Neural Network Based on Variational Autoencoder for Multimodal Data Integration and Node Classification
 
 
-## The framework of DHGNN
+## The framework of DHHNN
 ![image]((https://github.com/HaoWuLab-Bioinformatics/DHHNN/blob/main/model.png))
 
 ## Overview
