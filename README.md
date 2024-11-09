@@ -3,7 +3,7 @@ DHHNN: A Dynamic Hypergraph Hyperbolic Neural Network Based on Variational Autoe
 
 
 ## The framework of DHGNN
-![image](https://github.com/HaoWuLab-Bioinformatics/DHGNN/blob/master/model.png)
+![image](https://github.com/HaoWuLab-Bioinformatics/DHHNN/blob/master/model.png)
 
 ## Overview
 The folder "**data**" contains all data used.  
